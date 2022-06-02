@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhunsberger
-- 👀 I’m interested in Office 365, SharePoint, automation, and project management. 
+- 👀 I’m interested in Office 365, SharePoint, automation (Power Automate!), and project management. 
 - 🌱 I’m currently learning more about Microsoft Teams.
 
 <!---
